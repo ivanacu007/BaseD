@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Automoviles</string>
+    <string name="action_settings">Opciones</string>
+    <string name="id_usuario">ID auto</string>
+    <string name="user">Marca</string>
+    <string name="pass">Modelo</string>
+    <string name="nombre">Año</string>
+    <string name="apellido1">Precio</string>
+    <string name="apellido2">Color</string>
+    <string name="texto">Datos del auto</string>
+
+    <string name="add">Agregar</string>
+    <string name="del">Eliminar</string>
+    <string name="consultar">Consultar</string>
+    <string name="modificar">Modificar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="ejemplo">Ejemplo de ListView</string>
+    <string name="title_activity_list_view_ejemplo">ListViewEjemplo</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
